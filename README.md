@@ -1,5 +1,5 @@
-# Edunet-foundation-AI-Powered-Health-Assistant
-Welcome to the Edunet Foundation AI-Powered Health Assistant!
+# AICTE Edunet-foundation-AI-Powered-Health-Assistant
+Welcome to the AICTE Edunet Foundation AI-Powered Health Assistant!
 About This Project
 Hello and welcome! We’re thrilled to introduce you to our AI-powered health assistant—a project crafted to make your health journey both enjoyable and empowering. Our mission is to provide you with personalized advice, easy-to-follow fitness tracking, and smart insights that feel just like chatting with a knowledgeable friend.
 
