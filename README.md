@@ -12,6 +12,8 @@ Interactive Health Dashboard: Easily visualize your progress and stay motivated.
 How It Works
 Our assistant blends AI and data analysis to understand your health goals. It learns from your input and adapts its recommendations to help guide you on your path to a healthier, happier life.
 
+![Screenshot 2025-02-11 000016](https://github.com/user-attachments/assets/3e1431e5-bcb7-4985-a124-65eb0b781076)
+
 Getting Started
 Installation
 Clone the Repository:
